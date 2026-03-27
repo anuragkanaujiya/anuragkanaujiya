@@ -1,7 +1,10 @@
 <div align="center">
-
+<p align="center">
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1446,100:2a1a6e&height=160&section=header&text=Anurag%20Kanaujiya&fontSize=42&fontColor=f1f5f9&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20Intern%20%E2%80%94%20Builder&descSize=16&descColor=a78bfa&descAlignY=78"/>
+</p>
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:0d1117,100:0a0a0f&height=200&section=header&text=Anurag%20Kanaujiya&fontSize=52&fontColor=c9d1d9&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20Builder%20%E2%80%94%20Animator&descSize=16&descColor=6C8EFF&descAlignY=75" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:0d1117,100:0a0a0f&height=200&section=header&text=Anurag%20Kanaujiya&fontSize=52&fontColor=c9d1d9&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20Builder%20%E2%80%94%20Animator&descSize=16&descColor=6C8EFF&descAlignY=75" /> -->
 
 </div>
 
@@ -14,18 +17,39 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=6C8EFF&center=true&vCenter=true&width=600&lines=Next.js+%7C+Node.js+%7C+Tailwind+%7C+GSAP+%7C+Framer+Motion;Animating+the+web+one+component+at+a+time;Learning+DSA+and+System+Design+daily;Clean+Code.+Ship+Consistently.+Grow+Daily">
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C8EFF,100:8A2BE2&height=2&section=header"/>
+</p>
 </div>
 
 <br/>
 
 <!-- SNAKE ANIMATION -->
+##
+
+<p align="center">
+  <b>⏱ Consistency in Action</b>
+</p>
+
+<p align="center">
+  <i>Every commit reflects progress • Discipline builds mastery 🚀</i>
+</p>
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragkanaujiya/anuragkanaujiya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragkanaujiya/anuragkanaujiya/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/anuragkanaujiya/anuragkanaujiya/output/github-snake-dark.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragkanaujiya/anuragkanaujiya/main/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragkanaujiya/anuragkanaujiya/main/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/anuragkanaujiya/anuragkanaujiya/main/github-snake-dark.svg" alt="Snake animation">
+  </picture>
+</div>
+
+<p align="center">
+  <sub>⚡ Auto-updated every 12 hours</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 </div>
 
 <br/>
@@ -51,7 +75,8 @@
 </svg>
 </div>
 
----
+
+
 
 ## 🧑‍💻 About Me
 
@@ -107,12 +132,14 @@ I love turning ideas into smooth, animated web experiences. My frontend work com
 </svg>
 </div>
 
----
+<p align="center">
 
-## 🛠️ Tech Stack
+ 
 
+
+### 🛠️ Tech Stack
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1a,50:6C63FF,100:8A2BE2&height=2&width=100%" />
 <div align="center">
-
 ### 🎨 Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
@@ -170,7 +197,7 @@ I love turning ideas into smooth, animated web experiences. My frontend work com
 </svg>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1a,50:6C63FF,100:8A2BE2&height=2&width=100%" />
 
 ## 📈 Skill Progress
 
@@ -209,7 +236,7 @@ I love turning ideas into smooth, animated web experiences. My frontend work com
 </svg>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1a,50:6C63FF,100:8A2BE2&height=2&width=100%" />
 
 ## 📊 GitHub Stats
 
@@ -250,7 +277,7 @@ I love turning ideas into smooth, animated web experiences. My frontend work com
 </svg>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1a,50:6C63FF,100:8A2BE2&height=2&width=100%" />
 
 ## 🚀 What I'm Focused On
 
@@ -287,7 +314,7 @@ I love turning ideas into smooth, animated web experiences. My frontend work com
 </svg>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1a,50:6C63FF,100:8A2BE2&height=2&width=100%" />
 
 ## 📂 Featured Projects
 
@@ -323,20 +350,20 @@ I love turning ideas into smooth, animated web experiences. My frontend work com
 </svg>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1a,50:6C63FF,100:8A2BE2&height=2&width=100%" />
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-kanaujiya-70a9bb323)&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuroy0120@gmail.com)
 
 <br/>
 
-*Open to feedback, collaborations, and new opportunities. Let's build! 🚀*
+ *Open to feedback, collaborations, and new opportunities. Let's build! 🚀*
 
 <br/>
 
@@ -344,14 +371,14 @@ I love turning ideas into smooth, animated web experiences. My frontend work com
 
 <br/><br/>
 
-> *"Consistency beats intensity. Write code. Break things. Fix them. Ship."*
+ *"Consistency beats intensity. Write code. Break things. Fix them. Ship."*
 
 </div>
 
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1446,100:2a1a6e&height=190&section=footer&animation=fadeIn" />
 
 <!--
 ╔══════════════════════════════════════════════════════════╗
